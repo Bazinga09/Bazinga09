@@ -1,8 +1,8 @@
-[![MasterHead](https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47r6c1yjeaq30vy3loljce1e2mddelx9pqokzaq5ti&rid=giphy.gif&ct=g)](https://github.com/Bazinga09)
+[![MasterHead](https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966)](https://github.com/Bazinga09)
 
-<h1 align="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello Guys !! Welcome <img align=“right” alt=“Coding” height="40" width=“50” src=https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966> </h1>
+<h1 align="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello Guys !! Welcome to My Bazinga World<img align=“right” alt=“Coding” height="40" width=“50” src=https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966> </h1>
 <h3 align="left">I'm Passionate Full Stack SC Dev.</h3>
-<img align=“right” alt=“Coding” width=“380” src=https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479ygvtmzdhhzpreryi8d0tl7mx277zfpaun1k9ua5&rid=giphy.gif&ct=g><img align=“left” alt=“Coding” width=“00” src=https://camo.githubusercontent.com/ea9b334cd3eb02a9e89ea74efee992125a0de243b85f27153f03e166af03718c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f524b354b443655635570417439327a5a76742f67697068792e676966>
+<img align=“right” alt=“Coding” height="500" width=“600” src=https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479ygvtmzdhhzpreryi8d0tl7mx277zfpaun1k9ua5&rid=giphy.gif&ct=g>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazinga09&label=Profile%20views&color=0e75b6&style=flat" alt="bazinga09" /> </p>
 
