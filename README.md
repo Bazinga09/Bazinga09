@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **React,Solidity,Plutus,Rust,Nodesjs,Blockchain.**
 
-- 📫 How to reach me **rohitbazinga09@gmial.com**
+- 📫 How to reach me **rohitbazinga09@gmail.com**
 
 - ⚡ Fun fact **I think i'm Witty.**
 
