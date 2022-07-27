@@ -10,11 +10,11 @@
 
 - 🔭 I’m currently working on **Different Projects Across Chains**
 
-- 🌱 I’m currently learning **Plutus,Motoko,Rust Advance.**
+- 🌱 I’m currently learning **Plutus,Motoko,Rust Advance,Vyper.**
 
 - 👯 I’m looking to collaborate on **Web3 Projects on Defi,DAO,NFTs**
 
-- 💬 Ask me about **React,Solidity,Plutus,Rust,Nodesjs,Blockchain.**
+- 💬 Ask me about **React,Solidity,Plutus,Rust,Vyper,Nodesjs,Blockchain.**
 
 - 📫 How to reach me **rohitbazinga09@gmail.com**
 
