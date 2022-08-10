@@ -1,6 +1,6 @@
 <h1 align="left"><img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"> Hello Guys !! <img align=“right” alt=“Coding” height="40" width=“52” src=https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966> </h1>
 <h3 align="left">I'm a Passionate & Enthusiast Full Stack Smart Contract Developer <img align=“right” alt=“Coding” height="35" width=“40” src=https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330></h3>
-<img align=“right” alt=“Coding” height="400" width=“200” src=https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479ygvtmzdhhzpreryi8d0tl7mx277zfpaun1k9ua5&rid=giphy.gif&ct=g>
+<img align=“right” alt=“Coding” height="400" width=“500” src=https://media2.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif?cid=ecf05e479ygvtmzdhhzpreryi8d0tl7mx277zfpaun1k9ua5&rid=giphy.gif&ct=g>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bazinga09&label=Profile%20views&color=0e75b6&style=flat" alt="bazinga09" /> </p>
 
