@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Plutus,Motoko,Rust Advance,Vyper.**
 
-- 👯 I’m looking to collaborate on **Web3 Projects on Defi,DAO,NFTs**
+- 👯 I’m looking to collaborate on **Web3 Projects on Defi,DAO,Dexs,NFTs**
 
 - 💬 Ask me about **React,Solidity,Plutus,Rust,Vyper,Nodesjs,Blockchain.**
 
