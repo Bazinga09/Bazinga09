@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Web3 Projects on Defi,DAO,Dexs,NFTs**
 
-- 💬 Ask me about **React,Solidity,Plutus,Rust,Vyper,Nodesjs,Blockchain.**
+- 💬 Ask me about **React,Nextjs,Solidity,Plutus,Rust,Vyper,Nodesjs,Blockchain.**
 
 - 📫 How to reach me **rohitbazinga09@gmail.com**
 
